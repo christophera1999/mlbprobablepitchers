@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/jaw187/mlbprobablepitchers#readme",
   "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^20.1.0",
     "x-ray": "2.x.x"
   },
   "devDependencies": {

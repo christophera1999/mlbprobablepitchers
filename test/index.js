@@ -16,7 +16,7 @@ describe('MLB Probable Pitchers', () => {
 
     it('Gets probables', (done) => {
 
-        const day = '2011/07/23';
+        const day = '2017/08/15';
         Probables.get(day, (err, matchups) => {
 
             expect(err).to.not.exist();
